@@ -1,12 +1,6 @@
 ---
 title: TeaLeavesClassification
-emoji: 🔥
-colorFrom: pink
-colorTo: yellow
-sdk: gradio
-sdk_version: 4.12.0
-app_file: app.py
-pinned: false
+emoji: 🍃
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+website link:-https://huggingface.co/spaces/Suryaranji/TeaLeavesClassification
